@@ -62,7 +62,7 @@ Konga’s card payment interface loads inside a **secure PCI-DSS compliant ifram
 
 This is expected behavior and is commonly encountered when automating checkout/payment workflows in e-commerce applications.
 
- This is not a defect in the application. It is a technical limitation of Selenium IDE.
+ It is a technical limitation of Selenium IDE.
 
 
 
@@ -84,12 +84,13 @@ Konga-Checkout-Selenium-Invalid-Card-Test/
 
 ---
 
-## Key Takeaways
-✔ Demonstrates functional UI automation of an e-commerce checkout  
-✔ Performs negative testing using invalid payment data  
-✔ Shows tester understanding of real-world payment gateway constraints  
-✔ Highlights ability to scope and document automation limitations  
-✔ Suitable for QA portfolios and learning assignments  
+What This Project Showcases
+
+- Online checkout automation
+
+- Exploration of failed payment scenarios (invalid card)
+
+- Practical tester perspective on payment gateways and limitations
 
 
 ## Conclusion
